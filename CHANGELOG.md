@@ -1,3 +1,7 @@
+## [2.3.0]
+
+* Updated sensors_plus dep
+
 ## [2.2.0]
 
 * Updated sensors_plus dep
